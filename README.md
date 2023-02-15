@@ -17,11 +17,14 @@
        - Платформа: standard-v1
 
 # Документация
-- [Yandex.Cloud Provider](https://registry.tfpla.net/providers/yandex-cloud/yandex/latest/docs)
+- [Иерархия ресурсов Yandex Cloud](https://cloud.yandex.ru/docs/resource-manager/concepts/resources-hierarchy)
+- [Yandex.Cloud Terraform Provider](https://registry.tfpla.net/providers/yandex-cloud/yandex/latest/docs)
 
 ## Дополнительная информация
 
 - Используйте документацию в [terraform-gitops](https://github.com/digital-academy-devops/terraform-gitops).
 - Описание механики работы [terraform-gitops](https://github.com/digital-academy-devops/terraform-gitops), а также пример создания каталога и инфраструктуры в нём дан в ходе онлайн-занятия и доступен в записи.
-- Каталог с примером - https://github.com/digital-academy-devops/terraform-gitops/tree/main/states/mostashkin
+- Каталог с примером:
+  - https://github.com/digital-academy-devops/terraform-gitops/blob/main/states/system/folder.tf#L1
+  - https://github.com/digital-academy-devops/terraform-gitops/tree/main/states/mostashkin
 - Репозиторий с кодом написанный и разобранный в ходе лекций по Terraform - https://github.com/digital-academy-devops/terraform-tutorial
