@@ -5,8 +5,8 @@
 
 ## Задание
 Используя https://github.com/digital-academy-devops/terraform-gitops, создайте:
- 1. Каталог в облаке Yandex Cloud, который будете использовать в дальнейшем для создания инфраструктуры необходимой для выполнения практических занятий.
- 1. Тестовую инфраструктуру внутри каталога:
+ 1. `Каталог` в `облаке` Yandex Cloud, который будете использовать в дальнейшем для создания инфраструктуры необходимой для выполнения практических занятий.
+ 1. Тестовую инфраструктуру внутри `каталога`:
     1. VPC сеть, а так же подсеть внутри неё 
     1. Виртуальную машину:
        - Прерываемую
@@ -24,7 +24,7 @@
 
 - Используйте документацию в [terraform-gitops](https://github.com/digital-academy-devops/terraform-gitops).
 - Описание механики работы [terraform-gitops](https://github.com/digital-academy-devops/terraform-gitops), а также пример создания каталога и инфраструктуры в нём дан в ходе онлайн-занятия и доступен в записи.
-- Каталог с примером:
+- `Каталог` с примером:
   - https://github.com/digital-academy-devops/terraform-gitops/blob/main/states/system/folder.tf#L1
   - https://github.com/digital-academy-devops/terraform-gitops/tree/main/states/mostashkin
 - Репозиторий с кодом написанный и разобранный в ходе лекций по Terraform - https://github.com/digital-academy-devops/terraform-tutorial
